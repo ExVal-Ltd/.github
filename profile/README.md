@@ -7,10 +7,10 @@ You can reach out to us over...
 <br>
 
 ## Overview:
-- [Valkyrie C.M.S.](./vteq-web.md)
-- [L.U.N.A.](./vteq-luna.md)
-- Animat3D
-- [API](./vteq-api.md)
+- [Valkyrie C.M.S.](https://valky.dev/)
+- [L.U.N.A.](https://valkyteq.com/translate/)
+- [Animat3D](https://valkyteq.com/animat3d/)
+- [API](https://valky.dev/)
 
 <br>
 
