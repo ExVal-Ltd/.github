@@ -6,7 +6,6 @@ You can reach out to us over...
 
 <br>
 
-## Quote:
 > **ExVal Limited** is a game publishing company, providing game related services for multiple games in different genres.
 >   
   
